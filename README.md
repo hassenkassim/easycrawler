@@ -1,5 +1,5 @@
 # easycrawler
 Easy recursive crawler in C
 
-#FAQ
+# FAQ
 Should I use it? .. No.
